@@ -168,7 +168,6 @@ C:\Users\HUY\Desktop\Final_Group04\Group4\obj\Debug\Group4.csprojResolveAssembly
 C:\Users\HUY\Desktop\Final_Group04\Group4\obj\Debug\Group4.dll
 C:\Users\HUY\Desktop\Final_Group04\Group4\obj\Debug\Group4.pdb
 =======
-<<<<<<< HEAD
 C:\Users\Admin\Desktop\Final_Group04\Group4\bin\Group4.dll
 C:\Users\Admin\Desktop\Final_Group04\Group4\bin\Group4.pdb
 C:\Users\Admin\Desktop\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.dll
@@ -193,7 +192,6 @@ C:\Users\Admin\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\Admin\Desktop\Final_Group04\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Final_Group04\Group4\obj\Debug\Group4.dll
 C:\Users\Admin\Desktop\Final_Group04\Group4\obj\Debug\Group4.pdb
-=======
 C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\bin\Group4.dll
 C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\bin\Group4.pdb
 C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.dll
