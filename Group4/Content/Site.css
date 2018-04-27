@@ -731,4 +731,8 @@ tr.pager td {
             margin: 0;
         }
 }
+
+td {
+    color: blue;
+}
 /* END: Mobile Styles */
