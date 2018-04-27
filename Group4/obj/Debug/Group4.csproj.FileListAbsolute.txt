@@ -218,7 +218,6 @@ C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.dll
 C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.pdb
 >>>>>>> 867dd58fa86531af9d9bd32b683914b94f810c10
 >>>>>>> 8793467d5d9374854b46fe5694467bf66a85ba5a
-<<<<<<< HEAD
 C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\Group4.dll
 C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\Group4.pdb
 C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.dll
@@ -243,7 +242,6 @@ C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\obj\Debug\Group4.dll
 C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\obj\Debug\Group4.pdb
-=======
 C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\Group4.dll
 C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\Group4.pdb
 C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.dll
