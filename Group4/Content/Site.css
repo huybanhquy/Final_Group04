@@ -8,7 +8,7 @@
 body {
     background-color: black;
     border-top: solid 10px #000;
-    color: #b200ff;
+    color: #f50de3;
     font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
     margin: 0;
@@ -766,3 +766,6 @@ span#MainContent_FormView1_amountLabel {
 }
 >>>>>>> 9dfeae84daff26eb29241c351549c8ff91fc899d
 /* END: Mobile Styles */
+span#MainContent_FormView1_GiaLabel {
+    color: purple;
+}
