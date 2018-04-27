@@ -143,6 +143,32 @@ C:\Users\HUY\Desktop\INF205_AssignmentHT_Trungndph0863_Trangchu_Group4\Group4\ob
 C:\Users\HUY\Desktop\INF205_AssignmentHT_Trungndph0863_Trangchu_Group4\Group4\obj\Debug\Group4.dll
 C:\Users\HUY\Desktop\INF205_AssignmentHT_Trungndph0863_Trangchu_Group4\Group4\obj\Debug\Group4.pdb
 <<<<<<< HEAD
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\Group4.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\Group4.pdb
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.Core.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\EntityFramework.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\System.Web.Providers.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\EntityFramework.xml
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.Core.xml
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\HUY\Desktop\Final_Group04\Group4\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\HUY\Desktop\Final_Group04\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
+C:\Users\HUY\Desktop\Final_Group04\Group4\obj\Debug\Group4.dll
+C:\Users\HUY\Desktop\Final_Group04\Group4\obj\Debug\Group4.pdb
+=======
+<<<<<<< HEAD
 C:\Users\Admin\Desktop\Final_Group04\Group4\bin\Group4.dll
 C:\Users\Admin\Desktop\Final_Group04\Group4\bin\Group4.pdb
 C:\Users\Admin\Desktop\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.dll
@@ -193,3 +219,4 @@ C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.csprojResol
 C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.dll
 C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.pdb
 >>>>>>> 867dd58fa86531af9d9bd32b683914b94f810c10
+>>>>>>> 8793467d5d9374854b46fe5694467bf66a85ba5a
