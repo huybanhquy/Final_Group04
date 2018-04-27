@@ -8,7 +8,7 @@
 body {
     background-color: #fff;
     border-top: solid 10px #000;
-    color: #b200ff;
+    color: #f50de3;
     font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
     margin: 0;
@@ -738,3 +738,6 @@ td {
     color: blue;
 }
 /* END: Mobile Styles */
+span#MainContent_FormView1_GiaLabel {
+    color: purple;
+}
