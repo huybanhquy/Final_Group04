@@ -16,7 +16,7 @@
         </EditItemTemplate>
         <InsertItemTemplate>
             Mahd:
-            <asp:TextBox Text='<%# Bind("Mahd") %>' runat="server" ID="MahdTextBox" /><br />
+            <asp:TextBox  Text='<%# Bind("Mahd") %>' runat="server" ID="MahdTextBox" /><br />
             Sohd:
             <asp:TextBox Text='<%# Bind("Sohd") %>' runat="server" ID="SohdTextBox" /><br />
             MaKh:
