@@ -735,4 +735,15 @@ tr.pager td {
 td {
     color: blue;
 }
+span#MainContent_FormView1_MalhdLabel {
+    color: red;
+}
+span#MainContent_FormView1_MahdLabel {
+    color: red;
+}
+span#MainContent_FormView1_MaspLabel {
+    color: red;
+}
+span#MainContent_FormView1_amountLabel {
+    color: red;
 /* END: Mobile Styles */
