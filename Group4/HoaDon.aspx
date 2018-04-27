@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
-    <asp:FormView ID="FormView1" runat="server" DataKeyNames="Mahd" DataSourceID="SqlDataSource1">
+    <asp:FormView ID="FormView1" runat="server" DataKeyNames="Mahd" DataSourceID="SqlDataSource1" AllowPaging="True">
         <EditItemTemplate>
             Mahd:
             <asp:Label Text='<%# Eval("Mahd") %>' runat="server" ID="MahdLabel1" /><br />
