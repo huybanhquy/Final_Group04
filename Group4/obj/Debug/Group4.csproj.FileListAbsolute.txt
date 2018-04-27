@@ -218,3 +218,54 @@ C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.dll
 C:\Users\Hung\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.pdb
 >>>>>>> 867dd58fa86531af9d9bd32b683914b94f810c10
 >>>>>>> 8793467d5d9374854b46fe5694467bf66a85ba5a
+<<<<<<< HEAD
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\Group4.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\Group4.pdb
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\obj\Debug\Group4.dll
+C:\Users\Admin\Desktop\Nee\Final_Group04\Group4\obj\Debug\Group4.pdb
+=======
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\Group4.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\Group4.pdb
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.Core.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\EntityFramework.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\System.Web.Providers.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\EntityFramework.xml
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.Core.xml
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.csprojResolveAssemblyReference.cache
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.dll
+C:\Users\Fpoly\Documents\GitHub\Final_Group04\Group4\obj\Debug\Group4.pdb
+>>>>>>> 74c34467aefe4dd83555e37200503f588bc85e64

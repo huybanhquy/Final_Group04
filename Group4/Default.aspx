@@ -1,26 +1,74 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Group4._Default" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <asp:DataList ID="DataList1" runat="server" DataSourceID="SqlDataSource1" CellPadding="4" RepeatColumns="4" Width="115px">
-        <ItemTemplate>           
-        <div id="wrapper">
-        <div id="content">
-            <div class="container">
-                  <asp:Image ImageUrl='<%# Eval("Image") %>' runat="server" ID="ImageLabel" /><br />
-                <div class="overlay">
-                    <div class="text">
-                       <asp:Label Text='<%# Eval("Ten") %>' runat="server" ID="TenLabel" /><br />
-                        Giá bán:
-                        <asp:Label Text='<%# Eval("Gia") %>' runat="server" ID="GiaLabel" /><br />
-                        </div>
-                    <button >Mua ngay</button>
-                </div>
-            </div>            
-        </div>
-    </div>
-</ItemTemplate>
-    </asp:DataList>
-    <asp:SqlDataSource runat="server" ID="SqlDataSource1" ConnectionString='<%$ ConnectionStrings:QLBANHANG_NHOM4ConnectionString7 %>' SelectCommand="SELECT [Ten], [Gia], [Image] FROM [SanPham]"></asp:SqlDataSource> 
-        </asp:Content>
+    <asp:FormView ID="FormView1" runat="server" DataKeyNames="Masp" DataSourceID="SqlDataSource1" AllowPaging="True">
+        <EditItemTemplate>
+            Masp:
+            <asp:Label Text='<%# Eval("Masp") %>' runat="server" ID="MaspLabel1" /><br />
+            Malsp:
+            <asp:TextBox Text='<%# Bind("Malsp") %>' runat="server" ID="MalspTextBox" /><br />
+            Ten:
+            <asp:TextBox Text='<%# Bind("Ten") %>' runat="server" ID="TenTextBox" /><br />
+            Gia:
+            <asp:TextBox Text='<%# Bind("Gia") %>' runat="server" ID="GiaTextBox" /><br />
+            Mota:
+            <asp:TextBox Text='<%# Bind("Mota") %>' runat="server" ID="MotaTextBox" /><br />
+            Image:
+            <asp:TextBox Text='<%# Bind("Image") %>' runat="server" ID="ImageTextBox" /><br />
+            <asp:LinkButton runat="server" Text="Update" CommandName="Update" ID="UpdateButton" CausesValidation="True" />&nbsp;<asp:LinkButton runat="server" Text="Cancel" CommandName="Cancel" ID="UpdateCancelButton" CausesValidation="False" />
+        </EditItemTemplate>
+        <InsertItemTemplate>
+            Masp:
+            <asp:TextBox Text='<%# Bind("Masp") %>' runat="server" ID="MaspTextBox" /><br />
+            Malsp:
+            <asp:TextBox Text='<%# Bind("Malsp") %>' runat="server" ID="MalspTextBox" /><br />
+            Ten:
+            <asp:TextBox Text='<%# Bind("Ten") %>' runat="server" ID="TenTextBox" /><br />
+            Gia:
+            <asp:TextBox Text='<%# Bind("Gia") %>' runat="server" ID="GiaTextBox" /><br />
+            Mota:
+            <asp:TextBox Text='<%# Bind("Mota") %>' runat="server" ID="MotaTextBox" /><br />
+            Image:
+            <asp:TextBox Text='<%# Bind("Image") %>' runat="server" ID="ImageTextBox" /><br />
+            <asp:LinkButton runat="server" Text="Insert" CommandName="Insert" ID="InsertButton" CausesValidation="True" />&nbsp;<asp:LinkButton runat="server" Text="Cancel" CommandName="Cancel" ID="InsertCancelButton" CausesValidation="False" />
+        </InsertItemTemplate>
+        <ItemTemplate>
+            Masp:
+            <asp:Label Text='<%# Eval("Masp") %>' runat="server" ID="MaspLabel" /><br />
+            Malsp:
+            <asp:Label Text='<%# Bind("Malsp") %>' runat="server" ID="MalspLabel" /><br />
+            Ten:
+            <asp:Label Text='<%# Bind("Ten") %>' runat="server" ID="TenLabel" /><br />
+            Gia:
+            <asp:Label Text='<%# Bind("Gia") %>' runat="server" ID="GiaLabel" /><br />
+            Mota:
+            <asp:Label Text='<%# Bind("Mota") %>' runat="server" ID="MotaLabel" /><br />
+            Image:
+            <asp:Image ImageUrl='<%# Bind("Image") %>' runat="server" ID="ImageLabel" /><br />
+            <asp:LinkButton runat="server" Text="Edit" CommandName="Edit" ID="EditButton" CausesValidation="False" />&nbsp;<asp:LinkButton runat="server" Text="Delete" CommandName="Delete" ID="DeleteButton" CausesValidation="False" />&nbsp;<asp:LinkButton runat="server" Text="New" CommandName="New" ID="NewButton" CausesValidation="False" />
+        </ItemTemplate>
+    </asp:FormView>
+    <asp:SqlDataSource runat="server" ID="SqlDataSource1" ConnectionString='<%$ ConnectionStrings:QLBANHANG_NHOM4ConnectionString8 %>' DeleteCommand="DELETE FROM [SanPham] WHERE [Masp] = @Masp" InsertCommand="INSERT INTO [SanPham] ([Masp], [Malsp], [Ten], [Gia], [Mota], [Image]) VALUES (@Masp, @Malsp, @Ten, @Gia, @Mota, @Image)" SelectCommand="SELECT * FROM [SanPham]" UpdateCommand="UPDATE [SanPham] SET [Malsp] = @Malsp, [Ten] = @Ten, [Gia] = @Gia, [Mota] = @Mota, [Image] = @Image WHERE [Masp] = @Masp">
+        <DeleteParameters>
+            <asp:Parameter Name="Masp" Type="String"></asp:Parameter>
+        </DeleteParameters>
+        <InsertParameters>
+            <asp:Parameter Name="Masp" Type="String"></asp:Parameter>
+            <asp:Parameter Name="Malsp" Type="String"></asp:Parameter>
+            <asp:Parameter Name="Ten" Type="String"></asp:Parameter>
+            <asp:Parameter Name="Gia" Type="Decimal"></asp:Parameter>
+            <asp:Parameter Name="Mota" Type="String"></asp:Parameter>
+            <asp:Parameter Name="Image" Type="String"></asp:Parameter>
+        </InsertParameters>
+        <UpdateParameters>
+            <asp:Parameter Name="Malsp" Type="String"></asp:Parameter>
+            <asp:Parameter Name="Ten" Type="String"></asp:Parameter>
+            <asp:Parameter Name="Gia" Type="Decimal"></asp:Parameter>
+            <asp:Parameter Name="Mota" Type="String"></asp:Parameter>
+            <asp:Parameter Name="Image" Type="String"></asp:Parameter>
+            <asp:Parameter Name="Masp" Type="String"></asp:Parameter>
+        </UpdateParameters>
+    </asp:SqlDataSource>
+</asp:Content>
 <asp:Content runat="server" ID="BottomContent" ContentPlaceHolderID="BottomPage">
 </asp:Content>
